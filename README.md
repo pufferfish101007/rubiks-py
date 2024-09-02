@@ -1,0 +1,3 @@
+# Python rubiks cube solver
+
+This is a program I wrote back in 2021; I haven't changed anything other than adding a README and .gitignore. It provides a graphical interface of sorts for scrambling and solving a rubiks cube. The naive solver does work I think, however I don't believe that the solve viewer (which opens in your browser) displays things correctly. The optimal solver would in theory find an optimal solution if it had a few centuries to run - assume that it won't work. I am uploading this for posterity more than anything else.

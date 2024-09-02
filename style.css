@@ -1,0 +1,42 @@
+body {
+	font-family: arial;
+	color: #eeffee;
+	background-color: #110011;
+	text-align: center;
+}
+
+span.facelet {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	padding: 0;
+	margin: 2px;
+}
+
+span.facelet.side0 {
+	background: white;
+}
+
+span.facelet.side1 {
+	background: red;
+}
+
+span.facelet.side2 {
+	background: blue;
+}
+
+span.facelet.side3 {
+	background: orange;
+}
+
+span.facelet.side4 {
+	background: green;
+}
+
+span.facelet.side5 {
+	background: yellow;
+}
+
+span.facelet.side6 {
+	background: gray;
+}
